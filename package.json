@@ -1,0 +1,24 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Um modelo usando NodeJS e Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodresantoro/node-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sodresantoro/node-express/issues"
+  },
+  "homepage": "https://github.com/sodresantoro/node-express#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "helmet": "^3.9.0"
+  }
+}
